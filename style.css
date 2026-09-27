@@ -1,0 +1,42 @@
+ 
+    body {
+        font-family: Arial;
+        text-align: center;
+        background-color: #f4f4f4;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    #inputText {
+        padding: 10px;
+        width: 250px;
+    }
+
+    #addButton {
+        padding: 10px 15px;
+        background-color: blue;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    #listTask {
+        width: 400px;
+        margin: 20px auto;
+    }
+
+    #listTask p {
+        background-color: white;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    #listTask button {
+        background-color: red;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
